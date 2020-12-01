@@ -1,4 +1,4 @@
-package task_1
+package day_1
 
 import java.io.File
 
